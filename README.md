@@ -4,7 +4,7 @@ title: home
 permalink: /
 ---
 
-## 学习文库
+# 学习文库
 
 - [《宗鏡錄》文白對照](_posts/宗鏡錄.md)
 - [《成唯識論》文白對照](_posts/成唯識論.md)
