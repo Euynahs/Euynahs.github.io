@@ -23,6 +23,4 @@ permalink: /
 
 ## 大乘止觀
 
-## Bless of Inner Fire
-
 
