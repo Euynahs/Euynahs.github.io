@@ -3,7 +3,7 @@ title: 目錄
 author: Euynahs
 date: 2025-03-03
 category: Jekyll
-layout: post
+layout: home
 ---
 
 ### 佛
