@@ -6,7 +6,7 @@ permalink: /
 
 Make Jelly site have a GitBook look!
 
-## Demo
+## 宗镜录
 
 Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
 
@@ -212,11 +212,7 @@ The example can be previewed from
 
 [https://sighingnow.github.io/jekyll-gitbook/jekyll/2023-08-31-mermaid.html](https://sighingnow.github.io/jekyll-gitbook/jekyll/2023-08-31-mermaid.html)
 
-## License
 
-This work is open sourced under the Apache License, Version 2.0.
-
-Copyright 2019 Tao He.
 
 [1]: https://pages.github.com
 [2]: https://pages.github.com/themes
