@@ -1,5 +1,5 @@
 ---
-title: 学佛记录
+title: notes
 author: Euynahs
 date: 2025-03-03
 category: Jekyll
