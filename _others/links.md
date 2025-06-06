@@ -1,7 +1,6 @@
 ---
-title: 外部链接
-author: Tao He
-date: 2025-03-03
+title: 链接
+date: 2025-06-06
 category: Jekyll
 layout: post
 ---
@@ -9,6 +8,7 @@ layout: post
 - [漢典](https://www.zdic.net/)
 - [佛光大辭典](https://etext.fgs.org.tw/sutra_02.aspx)
 - [惟覺老和尚開示](https://www.ctworld.org.tw/turn/sutra/index.htm)
+- [清凉虚空](https://mp.weixin.qq.com/s/5G_J5oLaTkf1dTIgAM9G2Q)
 - [玅境法云](https://fayun.org/)
 - [宣化上人](https://www.drbachinese.org/online_reading/)
 - [CBETA電子大藏經](https://cbetaonline.dila.edu.tw/zh/)
