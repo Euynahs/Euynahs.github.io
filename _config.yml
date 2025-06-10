@@ -18,7 +18,6 @@ remote_theme: sighingnow/jekyll-gitbook
 
 toc:
   enabled: true
-  sanitize: true
   h_min:   1
   h_max:   6
 
