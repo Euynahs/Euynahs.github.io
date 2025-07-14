@@ -12,6 +12,7 @@ layout: post
 - [玅境法云](https://fayun.org/)
 - [宣化上人](https://www.drbachinese.org/online_reading/)
 - [CBETA電子大藏經](https://cbetaonline.dila.edu.tw/zh/)
+- [BDRC](https://library.bdrc.io/)
 - 三部証釋
   - [大學証釋](https://www.tientao.org/books/confucianism/ccr.html)
   - [中庸証釋](https://www.tientao.org/books/confucianism/mcr.html)
