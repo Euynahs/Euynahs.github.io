@@ -5,7 +5,7 @@ category: Jekyll
 layout: post
 ---
 
-- biostatistics 11-21 unc，21 返沪
-- 中医 24 厚朴筑基，25 师承跟诊
-- analytical psychology 22- [2+3](https://mp.weixin.qq.com/s/KL7Ts3s134Ro7Q6usBfmzg) [沙盘](https://mp.weixin.qq.com/s/BLbygM3a3rGD6EM7zQb34A)
-- 禅修·教理 17-
+辛卯十载教堂山  辛丑返沪生统  
+甲辰厚朴筑基始  乙巳跟诊中医  
+壬寅荣格[二加三](https://mp.weixin.qq.com/s/KL7Ts3s134Ro7Q6usBfmzg)  [沙盘](https://mp.weixin.qq.com/s/BLbygM3a3rGD6EM7zQb34A)心理分析  
+禅修教理由丁酉  至此
