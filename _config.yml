@@ -1,10 +1,10 @@
 # Configurations
-title:            学习文库
-longtitle:        学习文库
+title:            书苑
+longtitle:        书苑
 author:           Euynahs
 email:            
 description: >
-  学习文库
+  书苑
 
 version:          1.0
 gitbook_version:  3.2.3
