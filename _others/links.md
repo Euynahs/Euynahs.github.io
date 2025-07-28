@@ -13,7 +13,12 @@ layout: post
 - [宣化上人](https://www.drbachinese.org/online_reading/)
 - [CBETA電子大藏經](https://cbetaonline.dila.edu.tw/zh/)
 - [BDRC](https://library.bdrc.io/)
-- 三部証釋
+- 儒学
   - [大學証釋](https://www.tientao.org/books/confucianism/ccr.html)
   - [中庸証釋](https://www.tientao.org/books/confucianism/mcr.html)
   - [易經証釋](https://www.quanxue.cn/qt_mingxiang/yijingzsindex.html)
+- [厚朴中毉](https://www.hope.org.cn/)
+- 心理分析
+  - [东方心理分析研究院](https://psyheart.org/)
+  - [洗心岛](https://psyland.cn/)
+  - [沙盘](https://mp.weixin.qq.com/s/BLbygM3a3rGD6EM7zQb34A)
