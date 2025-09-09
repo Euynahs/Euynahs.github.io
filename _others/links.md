@@ -1,5 +1,5 @@
 ---
-title: 链接
+title: Other
 date: 2025-06-06
 category: Jekyll
 layout: post
@@ -25,10 +25,13 @@ layout: post
   - [沙盘](https://mp.weixin.qq.com/s/BLbygM3a3rGD6EM7zQb34A)
 
 <details><summary markdown='span'>
-- 通俗文学
+● 文艺爱好
 </summary>
-  - Harry Potter
-  - 汪曾祺
+  - 文学：Harry Potter、汪曾祺
+  - 动漫：罗小黑、风铃玉秀
+  - 舞蹈：popping、waacking
+  - 太极拳
 </details>
+
 
 
