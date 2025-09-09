@@ -17,8 +17,18 @@ layout: post
   - [大學証釋](https://www.tientao.org/books/confucianism/ccr.html)
   - [中庸証釋](https://www.tientao.org/books/confucianism/mcr.html)
   - [易經証釋](https://www.quanxue.cn/qt_mingxiang/yijingzsindex.html)
+  - [荀子](https://ctext.org/xunzi/quan-xue/zh)
 - [厚朴中毉](https://www.hope.org.cn/)
 - 心理分析
   - [东方心理分析研究院](https://psyheart.org/)
   - [洗心岛](https://psyland.cn/)
   - [沙盘](https://mp.weixin.qq.com/s/BLbygM3a3rGD6EM7zQb34A)
+
+<details><summary markdown='span'>
+- 通俗文学
+</summary>
+  - Harry Potter
+  - 汪曾祺
+</details>
+
+
